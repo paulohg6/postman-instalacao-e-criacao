@@ -17,6 +17,7 @@ O Postman trabalhar com a seguinte estrutura, para criação de requisições:
 As collections agrupam os testes, é possível organizar em estruturas os grupos de testes. 
 Uma collection nada mais é do que um local onde você irá agrupar todas as suas chamadas.
 Exemplos:
+![](/img-gif/collections.png)
 
 
 #### 2. Requisições dos testes
